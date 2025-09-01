@@ -17,4 +17,4 @@ Sistema bancário completo com as seguintes funcionalidades:
 ## Como executar
 ```bash
 javac ContaBancaria.java
-java ContaBancaria
+java ContaBancaria .
